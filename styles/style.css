@@ -133,5 +133,6 @@ body {
     
     .apresentacao__imagem{
         width: 100%; 
+        height: 70%;
     }
 }
