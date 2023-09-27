@@ -54,7 +54,7 @@ body {
     display:flex;
     width: 50%;
     flex-direction:column;
-    gap: 2.5rem;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -130,8 +130,5 @@ body {
     .apresentacao__conteudo{
         width:auto;
     }
-    
-    .apresentacao__imagem{
-        width: 1% 50%;
-    }
+
 }
