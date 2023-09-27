@@ -128,7 +128,10 @@ body {
     }
 
     .apresentacao__conteudo{
-        width:auto;
+        width:auto;       
+    }
+    .apresentacao__imagem {
+        padding: 10% 0% 10% 0%;
     }
 
 }
