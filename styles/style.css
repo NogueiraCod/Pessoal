@@ -102,7 +102,7 @@ body {
 }
 
 .rodape {
-
+    gap: 20px;
     background-color: var(--cor-terciaria);
     justify-content: center;
     color: var(--cor-primaria);
