@@ -102,7 +102,6 @@ body {
 }
 
 .rodape {
-    gap: 20px;
     background-color: var(--cor-terciaria);
     justify-content: center;
     color: var(--cor-primaria);
@@ -130,5 +129,8 @@ body {
 
     .apresentacao__conteudo{
         width:auto;       
+    }
+    footer {
+        padding: 2.5rem 0 0 0;
     }
 }
